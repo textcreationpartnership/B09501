@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the governour &amp; general court of the colony of the Massachusetts Bay, in New-England. It having been a thing too sensible and obvious to escape the observation of all who are not wholly strangers in our Israel; that this poor land has laboured under a long series of afflictions and calamities, whereby we have suffered successively in our precious and pleasant things ... Wherefore it is ordered, that the laws of this colony against vice, and all sort of debauchery and prophaness (which laws have too much lost their edg by the late interrpution of the government) be now faithfully and vigorously put in execution ...</title>
+            <author>Massachusetts. Governor (1689-1692 : Bradstreet)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09501</idno>
+            <idno type="STC">Wing M994</idno>
+            <idno type="STC">ESTC W7936</idno>
+            <idno type="EEBO-CITATION">69648760</idno>
+            <idno type="OCLC">ocm 69648760</idno>
+            <idno type="VID">184993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184993)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2883:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the governour &amp; general court of the colony of the Massachusetts Bay, in New-England. It having been a thing too sensible and obvious to escape the observation of all who are not wholly strangers in our Israel; that this poor land has laboured under a long series of afflictions and calamities, whereby we have suffered successively in our precious and pleasant things ... Wherefore it is ordered, that the laws of this colony against vice, and all sort of debauchery and prophaness (which laws have too much lost their edg by the late interrpution of the government) be now faithfully and vigorously put in execution ...</title>
+                  <author>Massachusetts. Governor (1689-1692 : Bradstreet)</author>
+                  <author>Bradstreet, Simon, 1603-1697.</author>
+                  <author>Massachusetts. Council.</author>
+               </titleStmt>
+               <extent>1 sheet  ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "Isaac Addington Secr."</note>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crimes without victims --  Massachusetts --  Early works to 1800.</term>
+               <term>Vice --  Massachusetts --  Early works to 1800.</term>
+               <term>Drunkenness (Criminal law) --  Massachusetts --  Early works to 1800.</term>
+               <term>Blasphemy --  Massachusetts --  Early works to 1800.</term>
+               <term>Immorality --  Massachusetts --  Early works to 1800.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:184993:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>SIGILUM: GVB: ET: SOCIET: DE: MATTACHVSETS: BAY: IN: NOVA: ANGLIA</head>
+                  <p>COME OVER AND HELP VS</p>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <head>BY The <hi>GOVERNOUR &amp;</hi> General COURT <hi>Of the COLONY of the</hi> Maſſachuſetts Bay, <hi>In New-England.</hi>
+            </head>
+            <p>
+               <hi>IT having been a thing too Senſible and Obvious to eſcape the Obſervation of all who are not wholly Strangers in our</hi> Iſrael; <hi>that this poor Land has laboured under a long</hi> Series <hi>of Afflicti<g ref="char:EOLhyphen"/>ons and Calamities, whereby we have ſuffered ſucceſſively in our precious and pleaſant Things, and have ſeen the Anger of the righteous God against us, expreſſed in Characters, which ought to be as</hi> Terrible <hi>as they muſt needs be viſible unto us; it having alſo, both by the</hi> Teſtimonies <hi>of thoſe, that after the moſt humble and exact Enquiries into the Mind of God, have diſcovered the ſame unto us, and by their own General and Repeated Confeſſions, become undeniable; That a</hi> Cor<g ref="char:EOLhyphen"/>ruption <hi>of Manners attended with Inexcuſable</hi> Degeneracies <hi>and</hi> Apoſtaſies, <hi>found in too many of this People, is the cauſe of that Controverſie, which the God of our Fathers has, for many years been maintaining with us: It being likewiſe at this day, ſuch a</hi> Probation-time <hi>with all</hi> New-England <hi>as this Countrey has never before ſeen from the firſt Foundation of it, and the Judgments of that Holy God, who hath beheld how incorrigible we have hitherto been under all His Diſpenſations, now arriving to ſuch an Extremity, That</hi> the Ax is laid to the Root of the Trees, <hi>and we are in imminent danger of periſhing, if a ſpeedy REFORMATION of our</hi> Provoking Evils <hi>prevent it not</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> THIS COURT have therefore thought it needful to praeface their other Endea<g ref="char:EOLhyphen"/>vours for the Publick Welfare, with a very ſolemn Admonition unto this whole People, that they every where give Demonſtrations of a thorough <hi>Repentance,</hi> without which we have little reaſon to hope for any good ſucceſs in our Affairs.</p>
+            <p>Wherefore it is Ordered, that the <hi>Laws</hi> of this Colony againſt <hi>Vice,</hi> and all ſorts of <hi>Debauchery</hi> and <hi>Prophaneſs</hi> (which <hi>Laws</hi> have too much loſt their edg by the late Inter<g ref="char:EOLhyphen"/>ruption of the Government) be now faithfully and Vigorouſly put in Execution; Parti<g ref="char:EOLhyphen"/>cularly the <hi>Laws</hi> againſt <hi>Blaſphemy, Curſing, Prophane Swearing, Lying, Unlawful Gaming, Sabbath breaking, Idleneſs, Drunkenneſs, <g ref="char:V">Ʋ</g>ncleanneſs, and all the Enticements, and Nurſeries of ſuch Impieties.</hi> Together with all other the wholſome <hi>Laws</hi> and <hi>Orders</hi> agreeable to the preſent Circumſtances of the Countrey; by the Execution whereof, we may approve our ſelves <hi>a peculiar People, zealous of good Works.</hi>
+            </p>
+            <pb facs="tcp:184993:1" rendition="simple:additions"/>
+            <p>And as all Perſons are hereby warned to avoid thoſe <hi>Vices</hi> which theſe <hi>Laws</hi> are deſigned for the Prevention and Chaſtiſement of (the <hi>Lovers</hi> of, and <hi>Pleaders</hi> for, ſuch Iniquities, being among the principal <hi>Troublers</hi> of their Countrey) So all inferiour <hi>Officers</hi> are enjoyn'd to perform their Duty in finding and bringing out Offenders againſt the aforeſaid <hi>Laws,</hi> and withal to give notice to ſuch Offenders that they muſt expect the Juſtice of an <hi>Exemplary Puniſhment.</hi>
+            </p>
+            <p>And that no attempt towards <hi>Reformation,</hi> may want that Aſſiſtance which all good men will be willing to give thereunto, 'tis hoped that the Miniſters of God will to the publick Reading of this <hi>Proclamation,</hi> adjoyn their own fervent La<g ref="char:EOLhyphen"/>bours, not only for the Rebukeing and Suppreſſing of thoſe <hi>Provoking Evils,</hi> which are marked for common Hatred: but alſo to witneſs againſt the more <hi>Spi<g ref="char:EOLhyphen"/>ritual Sins,</hi> which fall not ſo much under the cognizance of Humane <hi>Laws,</hi> namely, ſuch as <hi>
+                  <g ref="char:V">Ʋ</g>nbelief, Worldlineſs, Hereſy, Pride, Wrath, Strife, Envy,</hi> and the <hi>Neglect</hi> of communion with God, in both Natural and Inſtituted <hi>Worſhip,</hi> and the <hi>Contempt</hi> of the <hi>everlaſting Goſpel,</hi> with a ſhameful want of due <hi>Family-Inſtruction,</hi> which are the <hi>Roots of Bitterneſs</hi> in the midſt of us.</p>
+            <p>Moreover, after the Example of <hi>Pious Rulers</hi> commended in Sacred Writ; the <hi>Churches</hi> every where are hereby adviſed to give utmoſt Encouragement unto the Faithful and Watchful <hi>Paſtors</hi> of their Souls; to ſeek (where they <hi>lack</hi>) a full Set<g ref="char:EOLhyphen"/>tlement and Enjoyment of ſuch <hi>Officers,</hi> as the Lord Jeſus Chriſt has appointed for their Edification; to reflect ſeriouſly and frequently on their <hi>Covenants,</hi> to ſharpen their <hi>Diſcipline</hi> againſt thoſe that <hi>walk diſorderly;</hi> and immediately to compoſe their <hi>Differences</hi> and <hi>Contentions</hi> (if <hi>ſuch</hi> there be) whereby any of them may be diſtempered and enfeebled, that ſo they may become <hi>Terrible as an Army with Banners.</hi>
+            </p>
+            <p>Furthermore it is Expected that the ſeveral <hi>Towns</hi> within this Juriſdiction do ſpeedily furniſh themſelves with all fit means for the good <hi>Education of Youth,</hi> and take ſpecial care to avoid <hi>Factions</hi> and <hi>Quarrels</hi> in their other <hi>Town Affairs;</hi> and all Plantations are ſtrictly forbidden to continue without the Advantages of having the <hi>Word</hi> of God conſtantly preacht unto them, or without a Sincere and Active Induſtry, to obtain the Preſence of the Lord Chriſt in all His bleſſed <hi>Ordinances.</hi>
+            </p>
+            <p>And Finally, this whole People are hereby advertiſed, that if theſe <hi>Eſſayes</hi> for an univerſal Reformation, ſhall be obſtructed (as thoſe in the dayes of the Reform<g ref="char:EOLhyphen"/>ing <hi>Joſiah</hi> were) by Mens being <hi>ſettled on their Lees,</hi> and <hi>hating to be Reformed,</hi> they can reaſonably look for no other iſſue than this, that the jealous God <hi>will pu<g ref="char:EOLhyphen"/>niſh them yet ſeven times more for their iniquities:</hi> But, that if the God of Heaven ſhall grant unto them the Grace to <hi>Remember whence they are fallen, and Repent and do the firſt Works,</hi> it will give a greater Proſpect of <hi>Proſperity,</hi> than can ariſe from the beſt <hi>Counſels,</hi> and biggeſt <hi>Armies.</hi>
+            </p>
+            <p>The Work of <hi>Reformation</hi> thus <hi>endeavoured,</hi> is now <hi>recommended</hi> unto the bleſ<g ref="char:EOLhyphen"/>ſing of the Almighty, with whom alone it is, to Recover a Backſliding people; perſwading our ſelves, that the Event thereof would be <hi>Salvation nigh unto us, and Glory dwelling in our Land.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 13. 1689/1690.</date>
+               </dateline>
+               <signed>
+                  <hi>Iſaac Addington</hi> Secr.</signed>
+            </closer>
+            <pb facs="tcp:184993:2" rendition="simple:additions"/>
+            <pb facs="tcp:184993:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
